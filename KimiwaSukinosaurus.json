@@ -4,5 +4,62 @@
   "artist": "Sekiguchi Tarou",
   "author": "Sekiguchi Tarou",
   "cover": "https://mangadex.org/covers/5a5e46cd-4e77-4124-af01-7774e74d6498/1c3d9677-318a-4e05-a434-d73fd513045a.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1700194207",
+      "groups": {
+        "Last Hope Machine Translations": "/proxy/api/imgur/chapter/N7qwpRc"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1700280712",
+      "groups": {
+        "Last Hope Machine Translations": "/proxy/api/imgur/chapter/14Q97tz"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1700626406",
+      "groups": {
+        "Last Hope Machine Translations": "/proxy/api/imgur/chapter/KnWCSX8"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "1",
+      "last_updated": "1700712826",
+      "groups": {
+        "Last Hope Machine Translations": "/proxy/api/imgur/chapter/E2RDKwo"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "1",
+      "last_updated": "1700799255",
+      "groups": {
+        "Last Hope Machine Translations": "/proxy/api/imgur/chapter/NITmdEV"
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "1",
+      "last_updated": "1700885681",
+      "groups": {
+        "Last Hope Machine Translations": "/proxy/api/imgur/chapter/XnKKGpK"
+      }
+    },
+    "7": {
+      "title": "7",
+      "volume": "1",
+      "last_updated": "1700972096",
+      "groups": {
+        "Last Hope Machine Translations": "/proxy/api/imgur/chapter/pKIGGfS"
+      }
+    }
+  }
 }
