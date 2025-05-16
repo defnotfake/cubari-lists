@@ -125,7 +125,7 @@
         "Reaper Scans": "/proxy/api/imgur/chapter/sYgrANm"
       }
     },
-     "215": {
+    "215": {
       "title": "Cursed Hands",
       "volume": "",
       "last_updated": "1707324505",
@@ -133,12 +133,20 @@
         "Reaper Scans": "/proxy/api/imgur/chapter/cUvwUH0"
       }
     },
-     "216": {
+    "216": {
       "title": "One Big Hit",
       "volume": "",
       "last_updated": "1707324506",
       "groups": {
         "Reaper Scans": "/proxy/api/imgur/chapter/Ftgn6OH"
+      }
+    },
+    "999": {
+      "title": "Testing Chapter",
+      "volume": "",
+      "last_updated": "1747382276",
+      "groups": {
+        "Testing Scans": "/proxy/api/imgchest/chapter/md7owkpxr4p"
       }
     }
   }
