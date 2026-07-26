@@ -4,5 +4,22 @@
   "artist": "Kobayashi Shoujo",
   "author": "Mikami Kota",
   "cover": "https://mangadex.org/covers/5993c10b-c49e-4771-9a3a-8b8436b12d80/6da6cf64-c44f-4153-801e-77cdf9a92d3b.jpg",
-  "chapters": {}
+  "chapters": {
+    "4": {
+      "title": "Unexpected Encounter",
+      "volume": "1",
+      "last_updated": "1766483100",
+      "groups": {
+        "Philia Scans": "/proxy/api/imgchest/chapter/xny8ngrbpyb"
+      }
+    },
+    "5": {
+      "title": "Strategy Meeting?!",
+      "volume": "1",
+      "last_updated": "1766483160",
+      "groups": {
+        "Philia Scans": "/proxy/api/imgchest/chapter/vj4jpxjv248"
+      }
+    }
+  }
 }
