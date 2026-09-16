@@ -4,5 +4,38 @@
   "artist": "Tatsuwaipu",
   "author": "Tatsuwaipu",
   "cover": "https://mangadex.org/covers/52d99cee-d071-4acb-b9a1-3a8e4dfced5a/dd42c2ac-f04d-4e1b-9d41-2d8d54bed85d.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1781326800",
+      "groups": {
+        "SACACHISPA SCANLATION": "/proxy/api/imgchest/chapter/9ryddewdwyk"
+      }
+    },
+    "2": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1781413200",
+      "groups": {
+        "SACACHISPA SCANLATION": "/proxy/api/imgchest/chapter/5xy2jgww97l"
+      }
+    },
+    "3": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1782536400",
+      "groups": {
+        "SACACHISPA SCANLATION": "/proxy/api/imgchest/chapter/pg73akzrzyr"
+      }
+    },
+    "4": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1783141200",
+      "groups": {
+        "SACACHISPA SCANLATION": "/proxy/api/imgchest/chapter/9ryd9xjol7k"
+      }
+    }
+  }
 }
