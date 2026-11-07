@@ -68,6 +68,54 @@
       "groups": {
         "maboroshi-no": "/proxy/api/imgur/chapter/8zezTmn"
       }
+    },
+    "86": {
+      "title": "A New Power (1)",
+      "volume": "13",
+      "last_updated": "1775197860",
+      "groups": {
+        "maboroshi-no": "/proxy/api/imgchest/chapter/pg73mmbwjyr"
+      }
+    },
+    "87": {
+      "title": "A New Power (2)",
+      "volume": "",
+      "last_updated": "1778085660",
+      "groups": {
+        "maboroshi-no": "/proxy/api/imgchest/chapter/bp45ww2zq45"
+      }
+    },
+    "88": {
+      "title": "Invitation",
+      "volume": "",
+      "last_updated": "1783785660",
+      "groups": {
+        "maboroshi-no": "/proxy/api/imgchest/chapter/o24awwav27l"
+      }
+    },
+    "89": {
+      "title": "The Study Camp Begins!",
+      "volume": "",
+      "last_updated": "1786276380",
+      "groups": {
+        "maboroshi-no": "/proxy/api/imgchest/chapter/xny8ggqv27b"
+      }
+    },
+    "90": {
+      "title": "The Neighboring Nations Summit (1)",
+      "volume": "",
+      "last_updated": "1789747920",
+      "groups": {
+        "maboroshi-no": "/proxy/api/imgchest/chapter/bp45ww2pn45"
+      }
+    },
+    "91": {
+      "title": "The Neighboring Nations Summit (2)",
+      "volume": "",
+      "last_updated": "1791557100",
+      "groups": {
+        "maboroshi-no": "/proxy/api/imgchest/chapter/a846eelwzyx"
+      }
     }
   }
 }
