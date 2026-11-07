@@ -4,5 +4,30 @@
   "artist": "Nagomi Kanna",
   "author": "Yuishi",
   "cover": "https://comix.to/images/covers/d9/64/d964c0eac0ced5210ddfdea920c19cdc75f99b17.jpg",
-  "chapters": {}
+  "chapters": {
+    "27": {
+      "title": "Last Night’s Fun",
+      "volume": "",
+      "last_updated": "1771965360",
+      "groups": {
+        "NO DHL": "https://cubari.moe/read/imgchest/dl7pllql64o/1/1/"
+      }
+    },
+    "28": {
+      "title": "He approaches!!",
+      "volume": "",
+      "last_updated": "1780375200",
+      "groups": {
+        "NO DHL": "/proxy/api/imgchest/chapter/na7k99r9qy8"
+      }
+    },
+    "26.5": {
+      "title": "Nanami’s Wingwomen",
+      "volume": "",
+      "last_updated": "1763407200",
+      "groups": {
+        "NO DHL": "/proxy/api/imgchest/chapter/9p4npp2pzyn"
+      }
+    }
+  }
 }
