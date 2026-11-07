@@ -5,6 +5,38 @@
   "author": "Satoru Yamaguchi",
   "cover": "https://m.media-amazon.com/images/I/81Xfuq2kGtL._SL1500_.jpg",
   "chapters": {
+    "78": {
+      "title": "Finding Magnificent Fields (3)",
+      "volume": "12",
+      "last_updated": "1749245340",
+      "groups": {
+        "maboroshi-no": "/proxy/api/imgur/chapter/9jyUHVO"
+      }
+    },
+    "79": {
+      "title": "Lost Magic (1)",
+      "volume": "12",
+      "last_updated": "1751835300",
+      "groups": {
+        "maboroshi-no": "/proxy/api/imgur/chapter/GEX94wK"
+      }
+    },
+    "80": {
+      "title": "Lost Magic (2)",
+      "volume": "13",
+      "last_updated": "1759586580",
+      "groups": {
+        "maboroshi-no": "/proxy/api/imgur/chapter/IJgZQTA"
+      }
+    },
+    "81": {
+      "title": "Lost Magic (3)",
+      "volume": "13",
+      "last_updated": "1762645080",
+      "groups": {
+        "maboroshi-no": "/proxy/api/imgur/chapter/N86XRXF"
+      }
+    },
     "82": {
       "title": "The Covenant (1)",
       "volume": "13",
@@ -19,6 +51,22 @@
       "last_updated": "1768093620",
       "groups": {
         "maboroshi-no": "/proxy/api/imgur/chapter/9zAyzbj"
+      }
+    },
+    "84": {
+      "title": "The Covenant (3)",
+      "volume": "13",
+      "last_updated": "1771971180",
+      "groups": {
+        "maboroshi-no": "/proxy/api/imgur/chapter/YppLVjH"
+      }
+    },
+    "85": {
+      "title": "The Covenant (4)",
+      "volume": "13",
+      "last_updated": "1773499560",
+      "groups": {
+        "maboroshi-no": "/proxy/api/imgur/chapter/8zezTmn"
       }
     }
   }
