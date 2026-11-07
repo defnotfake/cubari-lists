@@ -116,6 +116,22 @@
       "groups": {
         "maboroshi-no": "/proxy/api/imgchest/chapter/a846eelwzyx"
       }
+    },
+    "79.5": {
+      "title": "Vol. 12 Bonus Illustrations",
+      "volume": "12",
+      "last_updated": "1756379700",
+      "groups": {
+        "maboroshi-no": "/proxy/api/imgchest/chapter/9p4npp3jbyn"
+      }
+    },
+    "86.5": {
+      "title": "Vol. 13 Bonus Illustrations",
+      "volume": "13",
+      "last_updated": "1779967500",
+      "groups": {
+        "maboroshi-no": "/proxy/api/imgchest/chapter/ne7bee2km75"
+      }
     }
   }
 }
